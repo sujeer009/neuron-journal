@@ -1,5 +1,5 @@
 -- Documentation for neuron.dhall: https://neuron.zettel.page/configuration
-{ siteTitle = "Neuron Journa"
+{ siteTitle = "Neuron Journal"
 , author = Some "Sujeer Abdul"
 , siteBaseUrl = Some "https://sujeer009.github.io/neuron-journal/"
 -- List of color names: https://semantic-ui.com/usage/theming.html#sitewide-defaults
